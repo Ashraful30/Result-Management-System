@@ -1,0 +1,45 @@
+body{
+	background-color: #878787;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+
+h2{
+	color: #AAAAAA;
+	text-align: center;
+	font-size: 50px;
+	font-family: agency fb;
+}
+
+.header{
+	background-color: #414141;
+	padding: 12px;
+}
+
+
+
+.menu{
+	margin-top: 100px;
+	min-height: 300px;
+}
+
+.menu ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.menu ul li{
+	margin-bottom: 15px;
+}
+
+.menu ul li a{
+	margin-bottom: 20px;
+	font-size: 25px;
+	color: white;
+}
+
+.menu ul li a:hover{
+	color: #AAAAAA;
+}
